@@ -9,7 +9,6 @@ Choisissez les dimensions du labyrinthe voulu
 Laissez vous guider !
 
 Computer science project, realised in prep school PTSI in France
-
 Using Python or IDE
 Run code
 Choose dimensions of your labyrinth you want to generate
